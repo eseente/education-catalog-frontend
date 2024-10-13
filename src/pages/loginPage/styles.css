@@ -1,0 +1,36 @@
+.page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-container {
+    margin-top: 10%;
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+  }
+  
+  .ant-tabs-tab {
+    font-weight: bold;
+  }
+  
+  .ant-tabs-nav {
+    margin-bottom: 20px;
+  }
+  
+  .ant-form-item {
+    text-align: left;
+  }
+  
+  .login-button {
+    width: 100%;
+  }
+  

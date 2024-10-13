@@ -1,0 +1,38 @@
+.developer-page{
+    margin: 3%;
+}
+.header-container{
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.logout-button-container{
+    display: flex;
+    justify-content: end;
+}
+.logout-button {
+    margin: 2%;
+}
+.education-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}
+
+.request-list-title {
+    margin-top: 6%;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}
+:where(.css-dev-only-do-not-override-vryruh).ant-form-horizontal .ant-form-item-label {
+    width: 15%;
+}
+:where(.css-dev-only-do-not-override-vryruh).ant-form-item .ant-form-item-label{
+    text-align: start;
+}

@@ -1,0 +1,17 @@
+.manager-page{
+    margin: 3%;
+}
+.header-container{
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.table-title{
+    margin-top: 6%;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}
