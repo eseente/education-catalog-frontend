@@ -3,7 +3,7 @@ import axios from 'axios';
 class ApiService {
   constructor() {
     this.client = axios.create({
-      baseURL: 'http://192.168.0.100:3000',
+      baseURL: 'https://education-catalog-backend.onrender.com',
       headers: {
         'Content-Type': 'application/json',
       },
